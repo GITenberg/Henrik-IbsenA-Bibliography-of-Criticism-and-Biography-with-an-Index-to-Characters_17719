@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7564'
     url: http://www.gutenberg.org/2009/agents/7564
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17719#Henrik-IbsenA-Bibliography-of-Criticism-and-Biography-with-an-Index-to-Characters
 gutenberg_issued: '2006-02-08'
 gutenberg_type: Text
 identifiers:
